@@ -38,6 +38,6 @@ There are total of 8800 deals of which 4238 deals where won making 48% of the to
 
 ![sales](https://github.com/VIvidDanalyst/Maven-Sales-Analysis/blob/main/Screenshot%202024-05-08%20135050.png)
 
-![
+![Sales2](https://github.com/VIvidDanalyst/Maven-Sales-Analysis/blob/main/Screenshot%202024-05-08%20135029.png)
 
 
