@@ -36,6 +36,8 @@ The data used are mostly clean and needed no stringent transformation
 ## Findings 
 There are total of 8800 deals of which 4238 deals where won making 48% of the total deals. The total deals won is slightly below 50% meaning there is need for improvement in the future, hence there should be policies made to ensure improvement in revenue generated and revenue can only be generated if deals are won. I recommend that Location like USA with high number of deals should be targeted to prevent deal loss and ensure deal winning which will in turn generate revenue.
 
+![sales](https://github.com/VIvidDanalyst/Maven-Sales-Analysis/blob/main/Screenshot%202024-05-08%20135050.png)
+
 ![
 
 
